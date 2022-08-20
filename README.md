@@ -11,19 +11,27 @@ Screenshots
 Registration Page- ![register](https://user-images.githubusercontent.com/65966441/185752365-d53ca724-6e05-482f-9064-e17371b68efa.jpg)
 
 
-Home page/Feed Section- 
+Home page/Feed Section- ![register](https://user-images.githubusercontent.com/65966441/185752424-69c6fcee-32cf-461a-a373-a0f5abf39a8f.jpg)
 
-User Chats- 
 
-Specific Chat- 
+User Chats- ![image](https://user-images.githubusercontent.com/65966441/185752443-6e287bb7-1ae3-4c4f-9d65-54f13c2714da.png)
 
-Todo Projects- 
 
-Create Post- 
+Specific Chat- ![image](https://user-images.githubusercontent.com/65966441/185752467-84df645a-1891-45f8-a8b8-9f26b5dcf563.png)
 
-Peer Search- 
 
-User profile- 
+
+Todo Projects- ![image](https://user-images.githubusercontent.com/65966441/185752478-39d4d4b7-a422-4f1f-ad38-07c00aa014ef.png)
+
+
+Create Post- ![image](https://user-images.githubusercontent.com/65966441/185752483-b49c34ed-8de2-4fc6-b5d5-eb8641ad3846.png)
+
+
+Peer Search- ![image](https://user-images.githubusercontent.com/65966441/185752502-4753a51a-d4dd-47b0-bc5d-65200a0eb9a6.png)
+
+
+User profile- ![image](https://user-images.githubusercontent.com/65966441/185752516-eb3d723f-7218-4d0a-8c6f-4024fc6e5452.png)
+
 
 Functionality and Components used
 The user interface of our application is made very subtle and easy to use.Following are few of our selection of Kotlin basic concepts to achieve a fairly elevated application :
@@ -43,7 +51,7 @@ Room database: The Room database functionality is used to implement the ‘Todo 
 Internet Connectivity: The application uses Firebase Authentication for Login/Sign up and Firebase Realtime Database for the chat functionality as well as for the uploading a post and retrieving all the post in feed of the user.
 
 Demo
-Demo Video
+Demo Video https://github.com/its-navneet/VerTech/blob/master/VerTech_Demo.gif
 
 Registration Page- 
 
