@@ -8,7 +8,8 @@ Solution
 Vertech is an ad free instant messaging and digital distribution platform where tech enthusiasts can jam with peers of their respective domains and collaborate on different projects. A league can share feeds of their amuse or new ideas of their respective domain. Many innovative ideas , projects can be cultivated on this user-friendly platform. The user can also maintain a to-do list of the projects to be done with his/her respective team mates.To avoid any delay in the flow of ideas, the user will have the liberty to have secure conversations through messaging with his peers.
 
 Screenshots
-Registration Page- 
+Registration Page- ![register](https://user-images.githubusercontent.com/65966441/185752365-d53ca724-6e05-482f-9064-e17371b68efa.jpg)
+
 
 Home page/Feed Section- 
 
